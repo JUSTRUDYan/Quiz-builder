@@ -1,4 +1,3 @@
-// src/pages/index/index.tsx
 import { useEffect } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { fetchQuizzes, deleteQuiz } from '../store/quizSlice';
